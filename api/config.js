@@ -10,11 +10,11 @@ module.exports = {
     // Когда выпустишь новую версию лаунчера — подними это число выше 9.
     version: 9,
     versionCansel: 0,
-    domainApp: "https://ЗАМЕНИ-НА-СВОЙ-ПРОЕКТ.vercel.app",
+    domainApp: "https://flinrpnastrka.vercel.app",
     versionName: "2.9",
     // Прямая ссылка на новый .apk лаунчера (если version выше 9).
     // Удобно хранить в GitHub Releases.
-    urlUpdateApp: "https://github.com/psychokaratel/ТВОЙ_РЕПОЗИТОРИЙ/releases/download/latest/flin_launcher.apk",
+    urlUpdateApp: "https://github.com/dozapsixoza1/ТВОЙ_РЕПОЗИТОРИЙ/releases/download/latest/flin_launcher.apk",
     nameUpdateApp: "flin_launcher.apk"
   },
 
@@ -22,7 +22,7 @@ module.exports = {
   download: {
     jsonVersion: 1,
     // Домен, откуда лаунчер тянет файлы. Можно указать GitHub Releases напрямую.
-    domainDownload: "https://github.com/psychokaratel/ТВОЙ_РЕПОЗИТОРИЙ/releases/download/latest",
+    domainDownload: "https://github.com/psychokaratel/silver-eureka-/releases/download/latest",
     urlUpdateClient: "/",
 
     // --- Полный клиент ---
