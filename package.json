@@ -1,0 +1,6 @@
+{
+  "name": "flin-rp-launcher-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Бэкенд для мобильного лаунчера Flin RP (замена PHP-скриптов flin-rp.su)"
+}
