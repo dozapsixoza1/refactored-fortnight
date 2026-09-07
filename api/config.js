@@ -13,7 +13,7 @@ module.exports = {
     domainApp: "https://ЗАМЕНИ-НА-СВОЙ-ПРОЕКТ.vercel.app",
     versionName: "2.9",
     // Прямая ссылка на новый .apk лаунчера (если version выше 9).
-    urlUpdateApp: "https://github.com/dozapsixoza1/silver-eureka-/releases/latest/download/flin_launcher.apk",
+    urlUpdateApp: "https://github.com/dozapsixoza1/silver-eureka-/releases/download/latest/flin_launcher.apk",
     nameUpdateApp: "flin_launcher.apk"
   },
 
@@ -21,7 +21,7 @@ module.exports = {
   download: {
     jsonVersion: 1,
     // Домен, откуда лаунчер тянет файлы мода (GitHub Releases).
-    domainDownload: "https://github.com/dozapsixoza1/silver-eureka-/releases/latest/download",
+    domainDownload: "https://github.com/dozapsixoza1/silver-eureka-/releases/download/latest",
     urlUpdateClient: "/",
 
     // --- Полный клиент ---
@@ -30,7 +30,7 @@ module.exports = {
     checksumUpdateClientFilesFull: "79b0ccacb193da66c51befb4f6fccf91c790dc59",
     verNameClientFull: "1",
     nameInstallClientFull: "flinrp_full.apk",
-    checksumInstallClientFull: "ЗАМЕНИ_НА_SHA1_ФАЙЛА",
+    checksumInstallClientFull: "b446f7f51335afabe10df8504f9964180b2fc4a5",
     nameInstallFilesGTAFull: "gta_full.zip",
     checksumInstallFilesGTAFull: "ЗАМЕНИ_НА_SHA1_ФАЙЛА",
     nameInstallFilesAPKFull: "files_full.zip",
